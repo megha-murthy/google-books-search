@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+.searchbox{
+  width:100%;
+  align-items: center;
+}
+
+.searchbutton{
+  margin-top:40px;
+  margin-left:50%;
+  width:90px;
+  /* border-radius: 4px; */
+  
+}
+
+body{
+  /* background-color: #FBEEC1; */
+  background-color: #EEE2DC;
+}
+
+.container{
+  border: 2px solid;
+  /* background-color: rgb(236, 213, 203); */
+  background-color: rgb(238, 200, 183);
+  /* background-color: rgb(228, 220, 222); */
+}
