@@ -13,6 +13,9 @@ This application consists of 2 pages :
 
 - Saved - Renders all books saved to the Mongo database. User has an option to "View" the book, bringing them to the book on Google Books, or "Delete" a book, removing it from the Mongo database.
 
+## Environment:
+This app is deployed using Heroku:  https://protected-badlands-58271.herokuapp.com/ 
+
 
 ## Technologies:
 
